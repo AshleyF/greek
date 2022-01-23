@@ -1,16 +1,6 @@
 # Scratch Notes
 
-- εγώ   (I)
-- εσύ   (you)
-- αυτός (he)
-- αυτή  (she)
-- αυτό  (it)
-- εμείς (we)
-- εσείς (you)
-- αυτοί (they)
-- αυτοί (they)
-- αυτές (they)
-- αυτά  (they)
+## Random
 
 - πίνω   (I drink)
 - πίνεις (you drink)
