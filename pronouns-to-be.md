@@ -19,6 +19,6 @@
 - είμαστε       (we are)
 - είστε/είσαστε (you are, many people or polite)
 
-Note: The pronoun is understood (optionally include for enphasis).
+Note: The pronoun is understood (optionally include for emphasis).
 
 Note: δεν negates (e.g. δεν είμαι - I am not)

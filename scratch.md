@@ -1,5 +1,30 @@
 # Scratch Notes
 
+## Definite Article (the)
+
+|           | Singular | Plural |
+| --------- | -------- | ------ |
+| Masculine | ο        | οι     |
+| Feminine  | η        | οι     |
+| Neuter    | το       | τα     |
+
+- Masculine [-ος -ης -ας]
+- Feminine [-α -η]
+- Neuter [-ο -ι -μα]
+
+## Indefinite Article (a, an one)
+
+- ένας (masculine, subject)
+- ενός (non-feminine, possession)
+- μίας (feminine, possession)
+- ένα(ν) (non-feminine, subject/object)
+- μία (feminine, subject/object)
+
+- Subject - subject of verb (**I** saw the cat)
+- Possession - or close association (**My** bag is gone)
+- Object - accusative, object of action/goal/motion (I like **them**)
+- Addressing - vocative invoking person/thing (No, **John**)
+
 ## Random
 
 - πίνω   (I drink)
