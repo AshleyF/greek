@@ -1,54 +1,15 @@
 # Scratch Notes
 
-## Nouns
+## Family
 
-### Foods
-
-- αλάτι (salt)
-- κρέας (meat)
-- αγγούρι (cucumber)
-- ελαιόλαδο (olive oil) 
-- χοιρινό (pork)
-- βοδινό (beef)
-- καρπούζι (watermelon)
-- πεπόνι (melon)
-- κερόδι (cherry)
-- ζυμαρικά (pasta)
-- ντουμάτα (tomato)
-- κρεμμύδι (onion)
-- τυρί (cheese)
-- σούπα (soup)
-- λεμόνι (lemon)
-- ψάρι (fish)
-- ψωμί (bread)
-- τσαι (tea)
-- αυγό (egg)
-- κοτόπουλο (chicken)
-- πορτοκάλι (orange)
-- χυμός πορτοκάλι (orange juice)
-- χυμός (juice)
-- σκόρδο (garlic)
-- πίτσα (pizza)
-- ζάχαρη (sugar)
-- σαλάτα (salad)
-- κρασι (wine)
-- καφέ (coffee)
-- φράουλα (strawberry)
-- μπίρα (beer)
-- φρούτο (fruit)
-
-### Food Related
-
-- φαγητό (food)
-- ποτήρι (glass)
-- πιάτο (plate)
-- γεύμα (meal)
-- μεσημερια νό (lunch)
-- δείπνο (dinner)
-- πρωινό (breakfast)
-- νόστιμη (delicious)
-- χορτοφάγος (vegitarian)
-- φρέσκα/φρέσκο (fresh)
+- γονείς  (parents)
+- μητέρα  (mother)
+- πατέρας (father)
+- αδερφός (brother)
+- αδελφη  (sister)
+- γιος    (son)
+- κορη    (daughter)
+- μωρό    (baby)
 
 ## Definite Article (the)
 
