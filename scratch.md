@@ -1,15 +1,10 @@
 # Scratch Notes
 
-## Family
+## Places
 
-- γονείς  (parents)
-- μητέρα  (mother)
-- πατέρας (father)
-- αδερφός (brother)
-- αδελφη  (sister)
-- γιος    (son)
-- κορη    (daughter)
-- μωρό    (baby)
+- Οχφόρδη (Oxford)
+- Πράγα (Prague)
+- Κρήτη (Crete)
 
 ## Definite Article (the)
 
