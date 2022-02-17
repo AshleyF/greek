@@ -1,5 +1,17 @@
 # Scratch Notes
 
+## Clothing
+
+- δερμάτινα (leather)
+- τσέπες (pockets)
+- μάλλινο (wool)
+- κοντομάνικο (t-shirt)
+- κοσμήματα (jewelry)
+- στόλο (uniform)
+- ζωνί (belt)
+- καλτσά (socks)
+- γραβάτες (ties)
+- γάντια (gloves)
 ## Places
 
 - Οχφόρδη (Oxford)
@@ -32,6 +44,8 @@
 - Addressing - vocative invoking person/thing (No, **John**)
 
 ## Random
+
+- φίλοι (friends)
 
 - πίνω   (I drink)
 - πίνεις (you drink)
