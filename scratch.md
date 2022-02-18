@@ -1,22 +1,20 @@
 # Scratch Notes
 
-## Clothing
-
-- δερμάτινα (leather)
-- τσέπες (pockets)
-- μάλλινο (wool)
-- κοντομάνικο (t-shirt)
-- κοσμήματα (jewelry)
-- στόλο (uniform)
-- ζωνί (belt)
-- καλτσά (socks)
-- γραβάτες (ties)
-- γάντια (gloves)
 ## Places
 
 - Οχφόρδη (Oxford)
 - Πράγα (Prague)
 - Κρήτη (Crete)
+- Ολυμπία (Olympia)
+- Καλιφόρνια (California)
+- Ασία (Asia)
+- Ιταλία (Italy)
+- Ευρώπη (Europe)
+- Αμερική (America)
+
+- από την (from)
+- μένω (live)
+- στην (in)
 
 ## Definite Article (the)
 
