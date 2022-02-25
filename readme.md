@@ -1,5 +1,6 @@
 These are my notes while learning Greek (Ελληνικά).
 
+- [Pimsleur](pimsleur.md)
 - [Αλφάβητο (Alphabet)](αλφάβητο.md)
 - [Φαγητό (Food)](φαγητό.md)
 - [Οικογένεια (Family)](οικογένεια.md)
