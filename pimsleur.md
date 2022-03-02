@@ -1,61 +1,88 @@
 # Pimsleur Greek
 
-## Unit 1
-
-### Conversation
-
-Συγνώμη. Καταλαβαίνετε Αγγλικά;  
-Όχι κύριε. Δεν καταλαβαίνουν Αγγλικά.  
-Καταλαβαίνουν λίγο Ελληνικά.  
-Είστε Αμερικανός;  
-Ναι, δεσποινίς.  
-
-Συγνώμη, δεσποινίς. Καταλαβαίνετε;  
-...  
-Καταλαβαίνετε Αγγλικά;  
-Όχι κύριε. Δεν καταλαβαίνουν Αγγλικά.  
-Καταλαβαίνετε Ελληνικά, κύριε;  
-Καταλαβαίνουν λίγο.  
-
 ### Vocabulary
 
 - συγνώμη (excuse me)
 - καταλαβαίνετε ([you] understand)
-- καταλαβαίνουν ([I] understand)
+- καταλαβαίνω ([I] understand)
 - Αγγλικά (English)
 - Ελληνικά (Greek)
 - κύριε (sir/Mr.)
-- δεσποινίς (Ms.)
+- κυρία (ma'am/Mrs.)
+- δεσποινίς (miss)
 - ναι (yes)
-- όχι (no)
+- όχι (no/not)
 - δεν (not)
 - λίγο (a little)
 - Αμερικανός (American)
 - είστε (you are)
+- χαίρετε (hello)
+- τι (what)
+- κάνετε ([you] doing)
+- ευχαριστώ (thank you)
+- πολύ (very)
+- καλά (well)
+- είμαι (I am)
+- είσαι (you are)
+- αντιο σας (goodbye)
 
 ### Phrases
 
-- Συγνώμη (Excuse me)
-- Καταλαβαίνουν (I understand)
-- Καταλαβαίνουν λίγο (I understand a little)
-- Καταλαβαίνουν Αγγλικά (I understand English)
-- Καταλαβαίνουν λίγο Αγγλικά (I understand a little English)
-- Καταλαβαίνουν Ελληνικά (I understand Greek)
-- Καταλαβαίνουν λίγο Ελληνικά (I understand a little Greek)
-- Δεν καταλαβαίνουν (I don't understand)
-- Δεν καταλαβαίνουν Αγγλικά (I don't understand English)
-- Δεν καταλαβαίνουν Ελληνικά (I don't understand Greek)
-- Καταλαβαίνετε (You understand)
-- Καταλαβαίνετε; (Do you understand)
-- Καταλαβαίνετε Αγγλικά (You understand English)
-- Καταλαβαίνετε Ελληνικά (You understand Greek)
+- Χαίρετε. (Hello.)
+- Αντιο σας. (Goodbye.)
+- Αντιο σας, κύριε. (Goodbye, sir.)
+- Αντιο σας, κυρία. (Goodbye, ma'am.)
+- Αντιο σας, δεσποινίς. (Goodbye, miss.)
+- Χαίρετε, κύριε. (Hello, sir.)
+- Χαίρετε, κυρία. (Hello, ma'am.)
+- Χαίρετε, δεσποινίς. (Hello, miss.)
+- Τι κάνετε, κύριε; (How are you, sir?)
+- Τι κάνετε, κυρία; (How are you, ma'am?)
+- Τι κάνετε, δεσποινίς; (How are you, miss?)
+- Είμαι καλά, ευχαριστώ. (I am well, thanks.)
+- Είμαι καλά. (I am well.)
+- Είσαι καλά. (You are well.)
+- Είσαι καλά; (Are you well?)
+- Είμαι. (I am.)
+- Είσαι. (You are.)
+- Είσαι; (Are you?)
+- Πολύ καλά. (Very well.)
+- Όχι, πολύ καλά. (Not very well.)
+- Πολύ καλά, ευχαριστώ. (Very well, thanks.)
+- Πολύ καλά, κύριε. (Very well, sir.)
+- Πολύ καλά, κυρία. (Very well, ma'am.)
+- Πολύ καλά, δεσποινίς. (Very well, miss.)
+- Ευχαριστώ. (Thank you.)
+- Συγνώμη. (Excuse me.)
+- Καταλαβαίνω. (I understand.)
+- Καταλαβαίνω λίγο. (I understand a little.)
+- Καταλαβαίνω Αγγλικά. (I understand English.)
+- Καταλαβαίνω λίγο Αγγλικά. (I understand a little English.)
+- Καταλαβαίνω Ελληνικά. (I understand Greek.)
+- Καταλαβαίνω λίγο Ελληνικά. (I understand a little Greek.)
+- Δεν καταλαβαίνω. (I don't understand.)
+- Δεν καταλαβαίνω Αγγλικά. (I don't understand English.)
+- Δεν καταλαβαίνω Ελληνικά. (I don't understand Greek.)
+- Καταλαβαίνετε. (You understand.)
+- Καταλαβαίνετε; (Do you understand.)
+- Καταλαβαίνετε Αγγλικά. (You understand English.)
+- Καταλαβαίνετε Ελληνικά. (You understand Greek.)
 - Καταλαβαίνετε Αγγλικά; (Do you understand English?)
 - Καταλαβαίνετε Ελληνικά; (Do you understand Greek?)
-- Όχι κύριε (no sir)
-- Όχι, δεν καταλαβαίνουν (No, I don't understand)
-- Είστε Αμερικανός (You are American)
+- Όχι κύριε. (No sir.)
+- Όχι κυρία. (No ma'am.)
+- Όχι δεσποινίς. (No miss.)
+- Όχι, δεν καταλαβαίνω. (No, I don't understand.)
+- Είστε Αμερικανός. (You are American.)
 - Είστε Αμερικανός; (Are you American?)
-- Ναι, δεσποινίς (Yes, miss)
+- Ναι, είστε Αμερικανός. (Yes, you are American.)
+- Ναι, κύριε. (Yes, sir.)
+- Ναι, κυρία. (Yes, ma'am.)
+- Ναι, δεσποινίς. (Yes, miss.)
 - Καταλαβαίνετε Ελληνικά, κύριε; (Do you understand English, sir?)
-- Συγνώμη, δεσποινίς. (Excuse me, miss)
+- Καταλαβαίνετε Ελληνικά, κυρία; (Do you understand English, ma'am.)
+- Καταλαβαίνετε Ελληνικά, δεσποινίς; (Do you understand English, miss.)
+- Συγνώμη, κύριε. (Excuse me, sir.)
+- Συγνώμη, κυρία. (Excuse me, ma'am.)
+- Συγνώμη, δεσποινίς. (Excuse me, miss.)
 - Λίγο. (A little.)
